@@ -1,0 +1,7 @@
+com\abml\repository\PersonaRepository.class
+com\abml\proyecto\ProyectoApplication.class
+com\abml\service\IPersonaService.class
+WebConfig.class
+com\abml\model\Persona.class
+com\abml\controller\PersonaController.class
+com\abml\service\PersonaService.class
