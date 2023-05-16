@@ -1,0 +1,6 @@
+com\yoprogramo\backend\service\IModelService.class
+com\yoprogramo\backend\BackendApplication.class
+com\yoprogramo\backend\controller\Controller.class
+com\yoprogramo\backend\model\Model.class
+com\yoprogramo\backend\service\ModelService.class
+com\yoprogramo\backend\repository\ModelRepository.class
